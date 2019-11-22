@@ -60,6 +60,6 @@ table{
 	left: 30%;
 }
 
-.shrink {
+#sortInfo:hover{
 	animation: shrink 3s forwards;
 }
